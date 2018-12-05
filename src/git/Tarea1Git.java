@@ -10,5 +10,5 @@ package git;
  * @author Andrés
  */
 public class Tarea1Git {
-    
+    private double dios;
 }
