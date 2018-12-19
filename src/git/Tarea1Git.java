@@ -10,5 +10,9 @@ package git;
  * @author Andrés
  */
 public class Tarea1Git {
-    private double dios;
+    public static void main(String[] args) {
+        
+        System.out.println("Aplicación de Andrés Campos Macías");
+        
+    }
 }
